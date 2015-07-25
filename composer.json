@@ -1,0 +1,19 @@
+{
+	"name": "br0sk/yii2-connect",
+	"description": "The getconnect.io API for Yii2",
+	"keywords": ["yii2", "statistics", "getconnect.io"],
+	"homepage": "http://br0sk.blogspot.com",
+	"type": "project",
+	"license": "BSD-3-Clause",
+	"support": {
+		"issues": "https://github.com/br0sk/yii2-connect/issues",
+		"source": "https://github.com/br0sk/yii2-connect"
+	},
+	"require": {
+		"php": ">=5.4.0",
+		"connect/connect-client" : "0.*",
+	},
+	"autoload": {
+		"psr-4": {"br0sk\\connect\\": ""}
+	}
+}
