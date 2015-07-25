@@ -11,7 +11,7 @@
 	},
 	"require": {
 		"php": ">=5.4.0",
-		"connect/connect-client" : "0.*",
+		"connect/connect-client" : "0.*"
 	},
 	"autoload": {
 		"psr-4": {"br0sk\\connect\\": ""}
